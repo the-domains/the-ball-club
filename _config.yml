@@ -1,0 +1,28 @@
+name: The Ball Club
+favicon: null
+layout_spectrum: 0.8523825083393604
+typography_spectrum: 0.3845754023641348
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9822226294782013
+  lightness: 0.320574558340013
+  saturation: 0.18157315580174327
+  rhythmicContrast: 0.6930953804403543
+purpose: []
